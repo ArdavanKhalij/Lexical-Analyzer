@@ -1,0 +1,21 @@
+ID : B
+ASG
+INT : 4
+MUL
+LPAR
+INT : 5
+MIN
+INT : 6
+DIV
+INT : 2
+RPAR
+ID : B
+ASG
+ID : B
+SUM
+INT : 1
+LPAR
+INT : 4
+SUM
+ID : B
+RPAR
